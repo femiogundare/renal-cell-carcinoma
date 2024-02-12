@@ -182,7 +182,7 @@ The predictive performance of the machine learning methods per-class based on AN
     <tbody>
     <!-- Replace the placeholder values with your actual data -->
     <tr>
-      <td rowspan="3">Multilayer Perceptron</td>97.22	94.44	96.23	97.64	95.33
+      <td rowspan="3">Multilayer Perceptron</td>
       <td>KICH</td>
       <td>97.22</td>
       <td>75.00</td>
